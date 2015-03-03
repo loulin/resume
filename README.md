@@ -15,14 +15,14 @@ Technology changes our lives.
 
 ## Work
 
-### CTO
-### Software Engineer, [EMC](http://china.emc.com/)
-### System Development Engineer, [eBay China](http://www.ebay.cn/)
-### Software Engineer, [Cisco Systems](http://www.cisco.com/web/CN/index.html)
+* CTO, Start Up
+* Software Engineer, [EMC](http://china.emc.com/)
+* System Development Engineer, [eBay China](http://www.ebay.cn/)
+* Software Engineer, [Cisco Systems](http://www.cisco.com/web/CN/index.html)
 
 ## Education
 
-### Shanghai Jiao Tong University - Master in Computer Science
+* Shanghai Jiao Tong University - Master in Computer Science
 
 ## Skills
 
